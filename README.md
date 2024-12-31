@@ -44,4 +44,16 @@ You can access the job portal at the following link:
 ### ** Successfull Login **
 ![Login Screenshot](images/login1.PNG "Successfull Login Page of the Job Portal")
 
+### **Home Page**
+![Home Page](images/home.PNG " Home Page of the Job Portal")
+
+### **Job Page**
+![Job Page](images/find_job.PNG "Job Page of the Job Portal")
+
+### **Job Saved Notification**
+![Saved Popup](images/saved_popup.PNG "Saved Popup")
+
+### **Job Saved Page**
+![Job Saved Page](images/saved_page.PNG "Job Page of the Job Portal")
+
 
