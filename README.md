@@ -41,7 +41,7 @@ You can access the job portal at the following link:
 ### **Login Page**
 ![Login Screenshot](images/login.PNG "Login Page of the Job Portal")
 
-### **Successfull Login **
+### **Successfull Login**
 ![Login Screenshot](images/login1.PNG "Successfull Login Page of the Job Portal")
 
 ### **Home Page**
