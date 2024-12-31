@@ -33,4 +33,4 @@ You can access the job portal at the following link:
 ## **Application Images**
 
 ### **Homepage**
-![Homepage Screenshot](images/register.png "Register Page of the Job Portal")
+![Homepage Screenshot](images/register.PNG "Register Page of the Job Portal")
