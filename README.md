@@ -1,5 +1,5 @@
 # Job Portal Application
- Job Portal
+ Job Portal  Link- https://gurunanthan2003.github.io/Job_Portal/
 ## **Overview**
 
 The **Job Portal Application** is a comprehensive platform designed to connect job seekers with employers. Users can explore job listings and save their preferred opportunities.The platform utilizes Firebase for database storage and authentication to ensure a secure and efficient user experience. It is hosted on GitHub Pages for easy access.
@@ -21,3 +21,11 @@ The **Job Portal Application** is a comprehensive platform designed to connect j
 - **HTML**
 - **CSS**
 - **JavaScript**
+  
+### **Backend**
+
+- **Firebase Authentication**: Secure user login and registration.
+- **Firebase Realtime Database**: Storing job listings,user profiles and Fetch them from the DB when required.
+### **Application Hosted in GitHub pages**
+You can access the job portal at the following link:
+( https://gurunanthan2003.github.io/Job_Portal/)
