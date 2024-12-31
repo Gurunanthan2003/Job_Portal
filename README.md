@@ -41,7 +41,7 @@ You can access the job portal at the following link:
 ### **Login Page**
 ![Login Screenshot](images/login.PNG "Login Page of the Job Portal")
 
-### ** Successfull Login **
+### **Successfull Login **
 ![Login Screenshot](images/login1.PNG "Successfull Login Page of the Job Portal")
 
 ### **Home Page**
@@ -54,6 +54,12 @@ You can access the job portal at the following link:
 ![Saved Popup](images/saved_popup.PNG "Saved Popup")
 
 ### **Job Saved Page**
-![Job Saved Page](images/saved_page.PNG "Job Page of the Job Portal")
+![Job Saved Page](images/saved_jobs.PNG "Job Page of the Job Portal")
+
+### **Find Employees Page**
+![Find Employees Page](images/employees.PNG "Find Employees Page of the Job Portal")
+
+### **Add New Jobs**
+![Add New Job](images/add_job.PNG "Add New Job of the Job Portal")
 
 
