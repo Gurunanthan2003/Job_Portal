@@ -29,3 +29,8 @@ The **Job Portal Application** is a comprehensive platform designed to connect j
 ### **Application Hosted in GitHub pages**
 You can access the job portal at the following link:
 ( https://gurunanthan2003.github.io/Job_Portal/)
+
+## **Application Images**
+
+### **Homepage**
+![Homepage Screenshot](images/register.PNG "Register Page of the Job Portal")
